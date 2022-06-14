@@ -1,0 +1,572 @@
+# No coco:
+https://github.com/microsoft/VoTT
+https://github.com/Microsoft/VoTT/releases
+https://vott.z22.web.core.windows.net/#/
+
+https://cvat.org/tasks/22077/jobs/34661
+
+https://app.labelbox.com/signin
+
+http://www.robots.ox.ac.uk/~vgg/software/via/
+
+https://github.com/jsbroks/coco-annotator#license
+
+https://datatorch.io/pricing/saas
+
+labelimg
+
+https://arxiv.org/pdf/1902.00267.pdf
+Color Spaces: RGB, LAB, HSV, Colornet9YUV, YCbCr, HED, YIQ
+
+
+https://cocodataset.org/#format-data
+https://docs.trainingdata.io/v1.0/Export%20Format/COCO/
+
+unknown
+nomask
+badmask
+mask
+
+{
+  "licenses": [
+    {
+      "name": "",
+      "id": 0,
+      "url": ""
+    }
+  ],
+  "info": {
+    "contributor": "",
+    "date_created": "",
+    "description": "",
+    "url": "",
+    "version": "",
+    "year": ""
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "unknown",
+      "supercategory": ""
+    },
+    {
+      "id": 2,
+      "name": "nomask",
+      "supercategory": ""
+    },
+    {
+      "id": 3,
+      "name": "badmask",
+      "supercategory": ""
+    },
+    {
+      "id": 4,
+      "name": "mask",
+      "supercategory": ""
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "width": 1477,
+      "height": 782,
+      "file_name": "test-yolo9.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 2,
+      "width": 1470,
+      "height": 771,
+      "file_name": "test-yolo8.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 3,
+      "width": 1467,
+      "height": 771,
+      "file_name": "test-yolo7.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 4,
+      "width": 1461,
+      "height": 766,
+      "file_name": "test-yolo6.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 5,
+      "width": 1442,
+      "height": 758,
+      "file_name": "test-yolo50.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 6,
+      "width": 1434,
+      "height": 765,
+      "file_name": "test-yolo5.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 7,
+      "width": 1445,
+      "height": 755,
+      "file_name": "test-yolo49.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 8,
+      "width": 1443,
+      "height": 756,
+      "file_name": "test-yolo48.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 9,
+      "width": 1438,
+      "height": 753,
+      "file_name": "test-yolo47.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 10,
+      "width": 1447,
+      "height": 761,
+      "file_name": "test-yolo46.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 11,
+      "width": 1452,
+      "height": 756,
+      "file_name": "test-yolo45.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 12,
+      "width": 1444,
+      "height": 758,
+      "file_name": "test-yolo44.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 13,
+      "width": 1460,
+      "height": 765,
+      "file_name": "test-yolo43.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 14,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "test-yolo42.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 15,
+      "width": 1439,
+      "height": 751,
+      "file_name": "test-yolo41.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 16,
+      "width": 1454,
+      "height": 763,
+      "file_name": "test-yolo40.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 17,
+      "width": 1401,
+      "height": 750,
+      "file_name": "test-yolo4.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 18,
+      "width": 1455,
+      "height": 756,
+      "file_name": "test-yolo39.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 19,
+      "width": 1450,
+      "height": 748,
+      "file_name": "test-yolo38.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 20,
+      "width": 1437,
+      "height": 757,
+      "file_name": "test-yolo37.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 21,
+      "width": 1433,
+      "height": 747,
+      "file_name": "test-yolo36.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 22,
+      "width": 1443,
+      "height": 749,
+      "file_name": "test-yolo35.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 23,
+      "width": 1443,
+      "height": 762,
+      "file_name": "test-yolo34.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 24,
+      "width": 1443,
+      "height": 762,
+      "file_name": "test-yolo33.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 25,
+      "width": 1449,
+      "height": 757,
+      "file_name": "test-yolo32.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 26,
+      "width": 1444,
+      "height": 750,
+      "file_name": "test-yolo31.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 27,
+      "width": 1448,
+      "height": 758,
+      "file_name": "test-yolo30.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 28,
+      "width": 1350,
+      "height": 753,
+      "file_name": "test-yolo3.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 29,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "test-yolo29.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 30,
+      "width": 1383,
+      "height": 730,
+      "file_name": "test-yolo28.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 31,
+      "width": 1431,
+      "height": 745,
+      "file_name": "test-yolo27.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 32,
+      "width": 1451,
+      "height": 766,
+      "file_name": "test-yolo26.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 33,
+      "width": 1453,
+      "height": 759,
+      "file_name": "test-yolo25.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 34,
+      "width": 1440,
+      "height": 749,
+      "file_name": "test-yolo24.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 35,
+      "width": 1423,
+      "height": 747,
+      "file_name": "test-yolo23.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 36,
+      "width": 1429,
+      "height": 751,
+      "file_name": "test-yolo22.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 37,
+      "width": 1398,
+      "height": 758,
+      "file_name": "test-yolo21.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 38,
+      "width": 1446,
+      "height": 756,
+      "file_name": "test-yolo20.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 39,
+      "width": 1277,
+      "height": 774,
+      "file_name": "test-yolo2.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 40,
+      "width": 1444,
+      "height": 756,
+      "file_name": "test-yolo19.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 41,
+      "width": 1439,
+      "height": 756,
+      "file_name": "test-yolo18.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 42,
+      "width": 1437,
+      "height": 749,
+      "file_name": "test-yolo17.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 43,
+      "width": 1445,
+      "height": 758,
+      "file_name": "test-yolo16.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 44,
+      "width": 1374,
+      "height": 753,
+      "file_name": "test-yolo15.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 45,
+      "width": 1440,
+      "height": 749,
+      "file_name": "test-yolo14.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 46,
+      "width": 1444,
+      "height": 768,
+      "file_name": "test-yolo13.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 47,
+      "width": 1433,
+      "height": 758,
+      "file_name": "test-yolo12.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 48,
+      "width": 1433,
+      "height": 753,
+      "file_name": "test-yolo11.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 49,
+      "width": 1449,
+      "height": 774,
+      "file_name": "test-yolo10.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    },
+    {
+      "id": 50,
+      "width": 1715,
+      "height": 924,
+      "file_name": "test-yolo1.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    }
+  ],
+  "annotations": [
+  ]
+}

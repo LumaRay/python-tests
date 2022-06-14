@@ -1,0 +1,4 @@
+unknown
+nomask
+badmask
+mask

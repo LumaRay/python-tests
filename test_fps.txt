@@ -1,0 +1,16 @@
+Intel i5 nVidia GTX1660
+Justification
+Full Screen 1920x1080
+No properties
+Haar Cascade                Zoom:20, K:3, N:10
+Tensorflow                  Quality:50
+Tensorflow Lite             Quality:1, TopK:10
+Tensorflow Lite Edge x1     Quality:1, TopK:10
+Movidius NSC2 x1            Quality:10
+
+frame FPS / detect FPS      Ubuntu 18.04 x64 V4L   Ubuntu 18.04 x64 GStreamer   Windows 10x64 DShow    Windows 10x64 GStreamer
+Haar Cascade                3.5-6 / 0.6            5/0.6                        3/0.6                  4/0.6
+Tensorflow                  15.5 / 11              15.5/11                      11/9                   18/15
+Tensorflow Lite             16 / 2.1               16/2                         13/0.5                 23/0.5
+Tensorflow Lite Edge x1     16.5 / 12.5            16.5/12.5                    14/11                  25/30
+Movidius NSC2 x1            13.5 / 13.5            13.7/13.7                    12/15                  14/18

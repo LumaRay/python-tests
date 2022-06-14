@@ -1,0 +1,718 @@
+gst-device-monitor-1.0 Video/Source
+Probing devices...
+
+
+** (gst-device-monitor-1.0:22060): WARNING **: 20:45:43.533: ks_video_format_to_structure returned NULL
+
+** (gst-device-monitor-1.0:22060): WARNING **: 20:45:43.536: ks_video_format_to_structure returned NULL
+
+Device found:
+
+        name  : Intel(R) RealSense(TM) Depth Camera 415  Depth
+        class : Video/Source
+        caps  : video/x-raw, format=(string)"Z16\ ", width=(int)256, height=(int)144, framerate=(fraction)90/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Z16\ ", width=(int)424, height=(int)240, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Z16\ ", width=(int)480, height=(int)270, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Z16\ ", width=(int)640, height=(int)360, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Z16\ ", width=(int)640, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Z16\ ", width=(int)848, height=(int)100, framerate=(fraction)100/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Z16\ ", width=(int)848, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Z16\ ", width=(int)1280, height=(int)720, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)256, height=(int)144, framerate=(fraction)90/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)424, height=(int)240, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)480, height=(int)270, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)640, height=(int)360, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)640, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)848, height=(int)100, framerate=(fraction)100/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)848, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)P..., width=(int)1280, height=(int)720, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)256, height=(int)144, framerate=(fraction)90/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)424, height=(int)240, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)480, height=(int)270, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)640, height=(int)360, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)640, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)848, height=(int)100, framerate=(fraction)100/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)848, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)2..., width=(int)1280, height=(int)720, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)256, height=(int)144, framerate=(fraction)90/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)424, height=(int)240, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)480, height=(int)270, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)640, height=(int)360, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)640, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)848, height=(int)100, framerate=(fraction)100/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)848, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)UYVY, width=(int)1280, height=(int)720, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)256, height=(int)144, framerate=(fraction)90/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)424, height=(int)240, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)480, height=(int)270, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)640, height=(int)360, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)640, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)848, height=(int)100, framerate=(fraction)100/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)848, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8\ \ ", width=(int)1280, height=(int)720, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)256, height=(int)144, framerate=(fraction)90/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)424, height=(int)240, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)480, height=(int)270, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)640, height=(int)360, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)640, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)848, height=(int)100, framerate=(fraction)100/1, pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)848, height=(int)480, framerate=(fraction)[ 6/1, 90/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)1280, height=(int)720, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"Y8I\ ", width=(int)1920, height=(int)1080, framerate=(fraction)[ 15/1, 25/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)Y12I, width=(int)960, height=(int)540, framerate=(fraction)[ 15/1, 25/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)Y12I, width=(int)1920, height=(int)1080, framerate=(fraction)[ 15/1, 25/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)"W10\ ", width=(int)1920, height=(int)1080, framerate=(fraction)30/1, pixel-aspect-ratio=(fraction)1/1;
+        gst-launch-1.0 ksvideosrc device-path="\\\\\?\\usb\#vid_8086\&pid_0ad3\&mi_00\#6\&208db384\&0\&0000\#\{6994ad05-93ef-11d0-a3cc-00a0c9223196\}\\global" ! ...
+
+
+Device found:
+
+        name  : Intel(R) RealSense(TM) Depth Camera 415  RGB
+        class : Video/Source
+        caps  : video/x-raw, format=(string)YUY2, width=(int)320, height=(int)180, framerate=(fraction)[ 6/1, 60/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)320, height=(int)240, framerate=(fraction)[ 6/1, 60/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)424, height=(int)240, framerate=(fraction)[ 6/1, 60/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)640, height=(int)360, framerate=(fraction)[ 6/1, 60/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)640, height=(int)480, framerate=(fraction)[ 6/1, 60/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)848, height=(int)480, framerate=(fraction)[ 6/1, 60/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)960, height=(int)540, framerate=(fraction)[ 6/1, 60/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)1280, height=(int)720, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+                video/x-raw, format=(string)YUY2, width=(int)1920, height=(int)1080, framerate=(fraction)[ 6/1, 30/1 ], pixel-aspect-ratio=(fraction)1/1;
+        gst-launch-1.0 ksvideosrc device-path="\\\\\?\\usb\#vid_8086\&pid_0ad3\&mi_03\#6\&208db384\&0\&0003\#\{6994ad05-93ef-11d0-a3cc-00a0c9223196\}\\global" ! ...
+
+
+
+Sensor consists of 4 streams:
+  - Depth #0
+  - Infrared #0
+  - Infrared #1
+  - Infrared #2
+Sensor provides the following stream profiles:
+0  : Infrared #0 (Video Stream: UYVY 1280x720@ 30Hz)
+1  : Infrared #0 (Video Stream: BGRA8 1280x720@ 30Hz)
+2  : Infrared #0 (Video Stream: RGBA8 1280x720@ 30Hz)
+3  : Infrared #0 (Video Stream: BGR8 1280x720@ 30Hz)
+4  : Infrared #0 (Video Stream: RGB8 1280x720@ 30Hz)
+5  : Infrared #0 (Video Stream: UYVY 1280x720@ 15Hz)
+6  : Infrared #0 (Video Stream: BGRA8 1280x720@ 15Hz)
+7  : Infrared #0 (Video Stream: RGBA8 1280x720@ 15Hz)
+8  : Infrared #0 (Video Stream: BGR8 1280x720@ 15Hz)
+9  : Infrared #0 (Video Stream: RGB8 1280x720@ 15Hz)
+10 : Infrared #0 (Video Stream: UYVY 1280x720@ 6Hz)
+11 : Infrared #0 (Video Stream: BGRA8 1280x720@ 6Hz)
+12 : Infrared #0 (Video Stream: RGBA8 1280x720@ 6Hz)
+13 : Infrared #0 (Video Stream: BGR8 1280x720@ 6Hz)
+14 : Infrared #0 (Video Stream: RGB8 1280x720@ 6Hz)
+15 : Infrared #0 (Video Stream: UYVY 848x480@ 90Hz)
+16 : Infrared #0 (Video Stream: BGRA8 848x480@ 90Hz)
+17 : Infrared #0 (Video Stream: RGBA8 848x480@ 90Hz)
+18 : Infrared #0 (Video Stream: BGR8 848x480@ 90Hz)
+19 : Infrared #0 (Video Stream: RGB8 848x480@ 90Hz)
+20 : Infrared #0 (Video Stream: UYVY 848x480@ 60Hz)
+21 : Infrared #0 (Video Stream: BGRA8 848x480@ 60Hz)
+22 : Infrared #0 (Video Stream: RGBA8 848x480@ 60Hz)
+23 : Infrared #0 (Video Stream: BGR8 848x480@ 60Hz)
+24 : Infrared #0 (Video Stream: RGB8 848x480@ 60Hz)
+25 : Infrared #0 (Video Stream: UYVY 848x480@ 30Hz)
+26 : Infrared #0 (Video Stream: BGRA8 848x480@ 30Hz)
+27 : Infrared #0 (Video Stream: RGBA8 848x480@ 30Hz)
+28 : Infrared #0 (Video Stream: BGR8 848x480@ 30Hz)
+29 : Infrared #0 (Video Stream: RGB8 848x480@ 30Hz)
+30 : Infrared #0 (Video Stream: UYVY 848x480@ 15Hz)
+31 : Infrared #0 (Video Stream: BGRA8 848x480@ 15Hz)
+32 : Infrared #0 (Video Stream: RGBA8 848x480@ 15Hz)
+33 : Infrared #0 (Video Stream: BGR8 848x480@ 15Hz)
+34 : Infrared #0 (Video Stream: RGB8 848x480@ 15Hz)
+35 : Infrared #0 (Video Stream: UYVY 848x480@ 6Hz)
+36 : Infrared #0 (Video Stream: BGRA8 848x480@ 6Hz)
+37 : Infrared #0 (Video Stream: RGBA8 848x480@ 6Hz)
+38 : Infrared #0 (Video Stream: BGR8 848x480@ 6Hz)
+39 : Infrared #0 (Video Stream: RGB8 848x480@ 6Hz)
+40 : Infrared #0 (Video Stream: UYVY 848x100@ 100Hz)
+41 : Infrared #0 (Video Stream: BGRA8 848x100@ 100Hz)
+42 : Infrared #0 (Video Stream: RGBA8 848x100@ 100Hz)
+43 : Infrared #0 (Video Stream: BGR8 848x100@ 100Hz)
+44 : Infrared #0 (Video Stream: RGB8 848x100@ 100Hz)
+45 : Infrared #0 (Video Stream: UYVY 640x480@ 90Hz)
+46 : Infrared #0 (Video Stream: BGRA8 640x480@ 90Hz)
+47 : Infrared #0 (Video Stream: RGBA8 640x480@ 90Hz)
+48 : Infrared #0 (Video Stream: BGR8 640x480@ 90Hz)
+49 : Infrared #0 (Video Stream: RGB8 640x480@ 90Hz)
+50 : Infrared #0 (Video Stream: UYVY 640x480@ 60Hz)
+51 : Infrared #0 (Video Stream: BGRA8 640x480@ 60Hz)
+52 : Infrared #0 (Video Stream: RGBA8 640x480@ 60Hz)
+53 : Infrared #0 (Video Stream: BGR8 640x480@ 60Hz)
+54 : Infrared #0 (Video Stream: RGB8 640x480@ 60Hz)
+55 : Infrared #0 (Video Stream: UYVY 640x480@ 30Hz)
+56 : Infrared #0 (Video Stream: BGRA8 640x480@ 30Hz)
+57 : Infrared #0 (Video Stream: RGBA8 640x480@ 30Hz)
+58 : Infrared #0 (Video Stream: BGR8 640x480@ 30Hz)
+59 : Infrared #0 (Video Stream: RGB8 640x480@ 30Hz)
+60 : Infrared #0 (Video Stream: UYVY 640x480@ 15Hz)
+61 : Infrared #0 (Video Stream: BGRA8 640x480@ 15Hz)
+62 : Infrared #0 (Video Stream: RGBA8 640x480@ 15Hz)
+63 : Infrared #0 (Video Stream: BGR8 640x480@ 15Hz)
+64 : Infrared #0 (Video Stream: RGB8 640x480@ 15Hz)
+65 : Infrared #0 (Video Stream: UYVY 640x480@ 6Hz)
+66 : Infrared #0 (Video Stream: BGRA8 640x480@ 6Hz)
+67 : Infrared #0 (Video Stream: RGBA8 640x480@ 6Hz)
+68 : Infrared #0 (Video Stream: BGR8 640x480@ 6Hz)
+69 : Infrared #0 (Video Stream: RGB8 640x480@ 6Hz)
+70 : Infrared #0 (Video Stream: UYVY 640x360@ 90Hz)
+71 : Infrared #0 (Video Stream: BGRA8 640x360@ 90Hz)
+72 : Infrared #0 (Video Stream: RGBA8 640x360@ 90Hz)
+73 : Infrared #0 (Video Stream: BGR8 640x360@ 90Hz)
+74 : Infrared #0 (Video Stream: RGB8 640x360@ 90Hz)
+75 : Infrared #0 (Video Stream: UYVY 640x360@ 60Hz)
+76 : Infrared #0 (Video Stream: BGRA8 640x360@ 60Hz)
+77 : Infrared #0 (Video Stream: RGBA8 640x360@ 60Hz)
+78 : Infrared #0 (Video Stream: BGR8 640x360@ 60Hz)
+79 : Infrared #0 (Video Stream: RGB8 640x360@ 60Hz)
+80 : Infrared #0 (Video Stream: UYVY 640x360@ 30Hz)
+81 : Infrared #0 (Video Stream: BGRA8 640x360@ 30Hz)
+82 : Infrared #0 (Video Stream: RGBA8 640x360@ 30Hz)
+83 : Infrared #0 (Video Stream: BGR8 640x360@ 30Hz)
+84 : Infrared #0 (Video Stream: RGB8 640x360@ 30Hz)
+85 : Infrared #0 (Video Stream: UYVY 640x360@ 15Hz)
+86 : Infrared #0 (Video Stream: BGRA8 640x360@ 15Hz)
+87 : Infrared #0 (Video Stream: RGBA8 640x360@ 15Hz)
+88 : Infrared #0 (Video Stream: BGR8 640x360@ 15Hz)
+89 : Infrared #0 (Video Stream: RGB8 640x360@ 15Hz)
+90 : Infrared #0 (Video Stream: UYVY 640x360@ 6Hz)
+91 : Infrared #0 (Video Stream: BGRA8 640x360@ 6Hz)
+92 : Infrared #0 (Video Stream: RGBA8 640x360@ 6Hz)
+93 : Infrared #0 (Video Stream: BGR8 640x360@ 6Hz)
+94 : Infrared #0 (Video Stream: RGB8 640x360@ 6Hz)
+95 : Infrared #0 (Video Stream: UYVY 480x270@ 90Hz)
+96 : Infrared #0 (Video Stream: BGRA8 480x270@ 90Hz)
+97 : Infrared #0 (Video Stream: RGBA8 480x270@ 90Hz)
+98 : Infrared #0 (Video Stream: BGR8 480x270@ 90Hz)
+99 : Infrared #0 (Video Stream: RGB8 480x270@ 90Hz)
+100: Infrared #0 (Video Stream: UYVY 480x270@ 60Hz)
+101: Infrared #0 (Video Stream: BGRA8 480x270@ 60Hz)
+102: Infrared #0 (Video Stream: RGBA8 480x270@ 60Hz)
+103: Infrared #0 (Video Stream: BGR8 480x270@ 60Hz)
+104: Infrared #0 (Video Stream: RGB8 480x270@ 60Hz)
+105: Infrared #0 (Video Stream: UYVY 480x270@ 30Hz)
+106: Infrared #0 (Video Stream: BGRA8 480x270@ 30Hz)
+107: Infrared #0 (Video Stream: RGBA8 480x270@ 30Hz)
+108: Infrared #0 (Video Stream: BGR8 480x270@ 30Hz)
+109: Infrared #0 (Video Stream: RGB8 480x270@ 30Hz)
+110: Infrared #0 (Video Stream: UYVY 480x270@ 15Hz)
+111: Infrared #0 (Video Stream: BGRA8 480x270@ 15Hz)
+112: Infrared #0 (Video Stream: RGBA8 480x270@ 15Hz)
+113: Infrared #0 (Video Stream: BGR8 480x270@ 15Hz)
+114: Infrared #0 (Video Stream: RGB8 480x270@ 15Hz)
+115: Infrared #0 (Video Stream: UYVY 480x270@ 6Hz)
+116: Infrared #0 (Video Stream: BGRA8 480x270@ 6Hz)
+117: Infrared #0 (Video Stream: RGBA8 480x270@ 6Hz)
+118: Infrared #0 (Video Stream: BGR8 480x270@ 6Hz)
+119: Infrared #0 (Video Stream: RGB8 480x270@ 6Hz)
+120: Infrared #0 (Video Stream: UYVY 424x240@ 90Hz)
+121: Infrared #0 (Video Stream: BGRA8 424x240@ 90Hz)
+122: Infrared #0 (Video Stream: RGBA8 424x240@ 90Hz)
+123: Infrared #0 (Video Stream: BGR8 424x240@ 90Hz)
+124: Infrared #0 (Video Stream: RGB8 424x240@ 90Hz)
+125: Infrared #0 (Video Stream: UYVY 424x240@ 60Hz)
+126: Infrared #0 (Video Stream: BGRA8 424x240@ 60Hz)
+127: Infrared #0 (Video Stream: RGBA8 424x240@ 60Hz)
+128: Infrared #0 (Video Stream: BGR8 424x240@ 60Hz)
+129: Infrared #0 (Video Stream: RGB8 424x240@ 60Hz)
+130: Infrared #0 (Video Stream: UYVY 424x240@ 30Hz)
+131: Infrared #0 (Video Stream: BGRA8 424x240@ 30Hz)
+132: Infrared #0 (Video Stream: RGBA8 424x240@ 30Hz)
+133: Infrared #0 (Video Stream: BGR8 424x240@ 30Hz)
+134: Infrared #0 (Video Stream: RGB8 424x240@ 30Hz)
+135: Infrared #0 (Video Stream: UYVY 424x240@ 15Hz)
+136: Infrared #0 (Video Stream: BGRA8 424x240@ 15Hz)
+137: Infrared #0 (Video Stream: RGBA8 424x240@ 15Hz)
+138: Infrared #0 (Video Stream: BGR8 424x240@ 15Hz)
+139: Infrared #0 (Video Stream: RGB8 424x240@ 15Hz)
+140: Infrared #0 (Video Stream: UYVY 424x240@ 6Hz)
+141: Infrared #0 (Video Stream: BGRA8 424x240@ 6Hz)
+142: Infrared #0 (Video Stream: RGBA8 424x240@ 6Hz)
+143: Infrared #0 (Video Stream: BGR8 424x240@ 6Hz)
+144: Infrared #0 (Video Stream: RGB8 424x240@ 6Hz)
+145: Infrared #0 (Video Stream: UYVY 256x144@ 90Hz)
+146: Infrared #0 (Video Stream: BGRA8 256x144@ 90Hz)
+147: Infrared #0 (Video Stream: RGBA8 256x144@ 90Hz)
+148: Infrared #0 (Video Stream: BGR8 256x144@ 90Hz)
+149: Infrared #0 (Video Stream: RGB8 256x144@ 90Hz)
+150: Infrared #1 (Video Stream: Y10BPACK 1920x1080@ 30Hz)
+151: Infrared #1 (Video Stream: RAW10 1920x1080@ 30Hz)
+152: Infrared #1 (Video Stream: Y16 1920x1080@ 25Hz)
+153: Infrared #1 (Video Stream: Y8 1920x1080@ 25Hz)
+154: Infrared #1 (Video Stream: Y16 1920x1080@ 15Hz)
+155: Infrared #1 (Video Stream: Y8 1920x1080@ 15Hz)
+156: Infrared #1 (Video Stream: Y8 1280x720@ 30Hz)
+157: Infrared #1 (Video Stream: Y8 1280x720@ 15Hz)
+158: Infrared #1 (Video Stream: Y8 1280x720@ 6Hz)
+159: Infrared #1 (Video Stream: Y16 960x540@ 25Hz)
+160: Infrared #1 (Video Stream: Y16 960x540@ 15Hz)
+161: Infrared #1 (Video Stream: Y8 848x480@ 90Hz)
+162: Infrared #1 (Video Stream: Y8 848x480@ 60Hz)
+163: Infrared #1 (Video Stream: Y8 848x480@ 30Hz)
+164: Infrared #1 (Video Stream: Y8 848x480@ 15Hz)
+165: Infrared #1 (Video Stream: Y8 848x480@ 6Hz)
+166: Infrared #1 (Video Stream: Y8 848x100@ 100Hz)
+167: Infrared #1 (Video Stream: Y8 640x480@ 90Hz)
+168: Infrared #1 (Video Stream: Y8 640x480@ 60Hz)
+169: Infrared #1 (Video Stream: Y8 640x480@ 30Hz)
+170: Infrared #1 (Video Stream: Y8 640x480@ 15Hz)
+171: Infrared #1 (Video Stream: Y8 640x480@ 6Hz)
+172: Infrared #1 (Video Stream: Y8 640x360@ 90Hz)
+173: Infrared #1 (Video Stream: Y8 640x360@ 60Hz)
+174: Infrared #1 (Video Stream: Y8 640x360@ 30Hz)
+175: Infrared #1 (Video Stream: Y8 640x360@ 15Hz)
+176: Infrared #1 (Video Stream: Y8 640x360@ 6Hz)
+177: Infrared #1 (Video Stream: Y8 480x270@ 90Hz)
+178: Infrared #1 (Video Stream: Y8 480x270@ 60Hz)
+179: Infrared #1 (Video Stream: Y8 480x270@ 30Hz)
+180: Infrared #1 (Video Stream: Y8 480x270@ 15Hz)
+181: Infrared #1 (Video Stream: Y8 480x270@ 6Hz)
+182: Infrared #1 (Video Stream: Y8 424x240@ 90Hz)
+183: Infrared #1 (Video Stream: Y8 424x240@ 60Hz)
+184: Infrared #1 (Video Stream: Y8 424x240@ 30Hz)
+185: Infrared #1 (Video Stream: Y8 424x240@ 15Hz)
+186: Infrared #1 (Video Stream: Y8 424x240@ 6Hz)
+187: Infrared #1 (Video Stream: Y8 256x144@ 90Hz)
+188: Infrared #2 (Video Stream: Y16 1920x1080@ 25Hz)
+189: Infrared #2 (Video Stream: Y8 1920x1080@ 25Hz)
+190: Infrared #2 (Video Stream: Y16 1920x1080@ 15Hz)
+191: Infrared #2 (Video Stream: Y8 1920x1080@ 15Hz)
+192: Infrared #2 (Video Stream: Y8 1280x720@ 30Hz)
+193: Infrared #2 (Video Stream: Y8 1280x720@ 15Hz)
+194: Infrared #2 (Video Stream: Y8 1280x720@ 6Hz)
+195: Infrared #2 (Video Stream: Y16 960x540@ 25Hz)
+196: Infrared #2 (Video Stream: Y16 960x540@ 15Hz)
+197: Infrared #2 (Video Stream: Y8 848x480@ 90Hz)
+198: Infrared #2 (Video Stream: Y8 848x480@ 60Hz)
+199: Infrared #2 (Video Stream: Y8 848x480@ 30Hz)
+200: Infrared #2 (Video Stream: Y8 848x480@ 15Hz)
+201: Infrared #2 (Video Stream: Y8 848x480@ 6Hz)
+202: Infrared #2 (Video Stream: Y8 848x100@ 100Hz)
+203: Infrared #2 (Video Stream: Y8 640x480@ 90Hz)
+204: Infrared #2 (Video Stream: Y8 640x480@ 60Hz)
+205: Infrared #2 (Video Stream: Y8 640x480@ 30Hz)
+206: Infrared #2 (Video Stream: Y8 640x480@ 15Hz)
+207: Infrared #2 (Video Stream: Y8 640x480@ 6Hz)
+208: Infrared #2 (Video Stream: Y8 640x360@ 90Hz)
+209: Infrared #2 (Video Stream: Y8 640x360@ 60Hz)
+210: Infrared #2 (Video Stream: Y8 640x360@ 30Hz)
+211: Infrared #2 (Video Stream: Y8 640x360@ 15Hz)
+212: Infrared #2 (Video Stream: Y8 640x360@ 6Hz)
+213: Infrared #2 (Video Stream: Y8 480x270@ 90Hz)
+214: Infrared #2 (Video Stream: Y8 480x270@ 60Hz)
+215: Infrared #2 (Video Stream: Y8 480x270@ 30Hz)
+216: Infrared #2 (Video Stream: Y8 480x270@ 15Hz)
+217: Infrared #2 (Video Stream: Y8 480x270@ 6Hz)
+218: Infrared #2 (Video Stream: Y8 424x240@ 90Hz)
+219: Infrared #2 (Video Stream: Y8 424x240@ 60Hz)
+220: Infrared #2 (Video Stream: Y8 424x240@ 30Hz)
+221: Infrared #2 (Video Stream: Y8 424x240@ 15Hz)
+222: Infrared #2 (Video Stream: Y8 424x240@ 6Hz)
+223: Infrared #2 (Video Stream: Y8 256x144@ 90Hz)
+224: Depth #0 (Video Stream: Z16 1280x720@ 30Hz)
+225: Depth #0 (Video Stream: Z16 1280x720@ 15Hz)
+226: Depth #0 (Video Stream: Z16 1280x720@ 6Hz)
+227: Depth #0 (Video Stream: Z16 848x480@ 90Hz)
+228: Depth #0 (Video Stream: Z16 848x480@ 60Hz)
+229: Depth #0 (Video Stream: Z16 848x480@ 30Hz)
+230: Depth #0 (Video Stream: Z16 848x480@ 15Hz)
+231: Depth #0 (Video Stream: Z16 848x480@ 6Hz)
+232: Depth #0 (Video Stream: Z16 848x100@ 100Hz)
+233: Depth #0 (Video Stream: Z16 640x480@ 90Hz)
+234: Depth #0 (Video Stream: Z16 640x480@ 60Hz)
+235: Depth #0 (Video Stream: Z16 640x480@ 30Hz)
+236: Depth #0 (Video Stream: Z16 640x480@ 15Hz)
+237: Depth #0 (Video Stream: Z16 640x480@ 6Hz)
+238: Depth #0 (Video Stream: Z16 640x360@ 90Hz)
+239: Depth #0 (Video Stream: Z16 640x360@ 60Hz)
+240: Depth #0 (Video Stream: Z16 640x360@ 30Hz)
+241: Depth #0 (Video Stream: Z16 640x360@ 15Hz)
+242: Depth #0 (Video Stream: Z16 640x360@ 6Hz)
+243: Depth #0 (Video Stream: Z16 480x270@ 90Hz)
+244: Depth #0 (Video Stream: Z16 480x270@ 60Hz)
+245: Depth #0 (Video Stream: Z16 480x270@ 30Hz)
+246: Depth #0 (Video Stream: Z16 480x270@ 15Hz)
+247: Depth #0 (Video Stream: Z16 480x270@ 6Hz)
+248: Depth #0 (Video Stream: Z16 424x240@ 90Hz)
+249: Depth #0 (Video Stream: Z16 424x240@ 60Hz)
+250: Depth #0 (Video Stream: Z16 424x240@ 30Hz)
+251: Depth #0 (Video Stream: Z16 424x240@ 15Hz)
+252: Depth #0 (Video Stream: Z16 424x240@ 6Hz)
+253: Depth #0 (Video Stream: Z16 256x144@ 90Hz)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sensor consists of 1 streams:
+  - Color #0
+Sensor provides the following stream profiles:
+0  : Color #0 (Video Stream: RGB8 1920x1080@ 30Hz)
+1  : Color #0 (Video Stream: RAW16 1920x1080@ 30Hz)
+2  : Color #0 (Video Stream: Y16 1920x1080@ 30Hz)
+3  : Color #0 (Video Stream: BGRA8 1920x1080@ 30Hz)
+4  : Color #0 (Video Stream: RGBA8 1920x1080@ 30Hz)
+5  : Color #0 (Video Stream: BGR8 1920x1080@ 30Hz)
+6  : Color #0 (Video Stream: YUYV 1920x1080@ 30Hz)
+7  : Color #0 (Video Stream: RGB8 1920x1080@ 15Hz)
+8  : Color #0 (Video Stream: Y16 1920x1080@ 15Hz)
+9  : Color #0 (Video Stream: BGRA8 1920x1080@ 15Hz)
+10 : Color #0 (Video Stream: RGBA8 1920x1080@ 15Hz)
+11 : Color #0 (Video Stream: BGR8 1920x1080@ 15Hz)
+12 : Color #0 (Video Stream: YUYV 1920x1080@ 15Hz)
+13 : Color #0 (Video Stream: RGB8 1920x1080@ 6Hz)
+14 : Color #0 (Video Stream: Y16 1920x1080@ 6Hz)
+15 : Color #0 (Video Stream: BGRA8 1920x1080@ 6Hz)
+16 : Color #0 (Video Stream: RGBA8 1920x1080@ 6Hz)
+17 : Color #0 (Video Stream: BGR8 1920x1080@ 6Hz)
+18 : Color #0 (Video Stream: YUYV 1920x1080@ 6Hz)
+19 : Color #0 (Video Stream: RGB8 1280x720@ 30Hz)
+20 : Color #0 (Video Stream: Y16 1280x720@ 30Hz)
+21 : Color #0 (Video Stream: BGRA8 1280x720@ 30Hz)
+22 : Color #0 (Video Stream: RGBA8 1280x720@ 30Hz)
+23 : Color #0 (Video Stream: BGR8 1280x720@ 30Hz)
+24 : Color #0 (Video Stream: YUYV 1280x720@ 30Hz)
+25 : Color #0 (Video Stream: RGB8 1280x720@ 15Hz)
+26 : Color #0 (Video Stream: Y16 1280x720@ 15Hz)
+27 : Color #0 (Video Stream: BGRA8 1280x720@ 15Hz)
+28 : Color #0 (Video Stream: RGBA8 1280x720@ 15Hz)
+29 : Color #0 (Video Stream: BGR8 1280x720@ 15Hz)
+30 : Color #0 (Video Stream: YUYV 1280x720@ 15Hz)
+31 : Color #0 (Video Stream: RGB8 1280x720@ 6Hz)
+32 : Color #0 (Video Stream: Y16 1280x720@ 6Hz)
+33 : Color #0 (Video Stream: BGRA8 1280x720@ 6Hz)
+34 : Color #0 (Video Stream: RGBA8 1280x720@ 6Hz)
+35 : Color #0 (Video Stream: BGR8 1280x720@ 6Hz)
+36 : Color #0 (Video Stream: YUYV 1280x720@ 6Hz)
+37 : Color #0 (Video Stream: RGB8 960x540@ 60Hz)
+38 : Color #0 (Video Stream: Y16 960x540@ 60Hz)
+39 : Color #0 (Video Stream: BGRA8 960x540@ 60Hz)
+40 : Color #0 (Video Stream: RGBA8 960x540@ 60Hz)
+41 : Color #0 (Video Stream: BGR8 960x540@ 60Hz)
+42 : Color #0 (Video Stream: YUYV 960x540@ 60Hz)
+43 : Color #0 (Video Stream: RGB8 960x540@ 30Hz)
+44 : Color #0 (Video Stream: Y16 960x540@ 30Hz)
+45 : Color #0 (Video Stream: BGRA8 960x540@ 30Hz)
+46 : Color #0 (Video Stream: RGBA8 960x540@ 30Hz)
+47 : Color #0 (Video Stream: BGR8 960x540@ 30Hz)
+48 : Color #0 (Video Stream: YUYV 960x540@ 30Hz)
+49 : Color #0 (Video Stream: RGB8 960x540@ 15Hz)
+50 : Color #0 (Video Stream: Y16 960x540@ 15Hz)
+51 : Color #0 (Video Stream: BGRA8 960x540@ 15Hz)
+52 : Color #0 (Video Stream: RGBA8 960x540@ 15Hz)
+53 : Color #0 (Video Stream: BGR8 960x540@ 15Hz)
+54 : Color #0 (Video Stream: YUYV 960x540@ 15Hz)
+55 : Color #0 (Video Stream: RGB8 960x540@ 6Hz)
+56 : Color #0 (Video Stream: Y16 960x540@ 6Hz)
+57 : Color #0 (Video Stream: BGRA8 960x540@ 6Hz)
+58 : Color #0 (Video Stream: RGBA8 960x540@ 6Hz)
+59 : Color #0 (Video Stream: BGR8 960x540@ 6Hz)
+60 : Color #0 (Video Stream: YUYV 960x540@ 6Hz)
+61 : Color #0 (Video Stream: RGB8 848x480@ 60Hz)
+62 : Color #0 (Video Stream: Y16 848x480@ 60Hz)
+63 : Color #0 (Video Stream: BGRA8 848x480@ 60Hz)
+64 : Color #0 (Video Stream: RGBA8 848x480@ 60Hz)
+65 : Color #0 (Video Stream: BGR8 848x480@ 60Hz)
+66 : Color #0 (Video Stream: YUYV 848x480@ 60Hz)
+67 : Color #0 (Video Stream: RGB8 848x480@ 30Hz)
+68 : Color #0 (Video Stream: Y16 848x480@ 30Hz)
+69 : Color #0 (Video Stream: BGRA8 848x480@ 30Hz)
+70 : Color #0 (Video Stream: RGBA8 848x480@ 30Hz)
+71 : Color #0 (Video Stream: BGR8 848x480@ 30Hz)
+72 : Color #0 (Video Stream: YUYV 848x480@ 30Hz)
+73 : Color #0 (Video Stream: RGB8 848x480@ 15Hz)
+74 : Color #0 (Video Stream: Y16 848x480@ 15Hz)
+75 : Color #0 (Video Stream: BGRA8 848x480@ 15Hz)
+76 : Color #0 (Video Stream: RGBA8 848x480@ 15Hz)
+77 : Color #0 (Video Stream: BGR8 848x480@ 15Hz)
+78 : Color #0 (Video Stream: YUYV 848x480@ 15Hz)
+79 : Color #0 (Video Stream: RGB8 848x480@ 6Hz)
+80 : Color #0 (Video Stream: Y16 848x480@ 6Hz)
+81 : Color #0 (Video Stream: BGRA8 848x480@ 6Hz)
+82 : Color #0 (Video Stream: RGBA8 848x480@ 6Hz)
+83 : Color #0 (Video Stream: BGR8 848x480@ 6Hz)
+84 : Color #0 (Video Stream: YUYV 848x480@ 6Hz)
+85 : Color #0 (Video Stream: RGB8 640x480@ 60Hz)
+86 : Color #0 (Video Stream: Y16 640x480@ 60Hz)
+87 : Color #0 (Video Stream: BGRA8 640x480@ 60Hz)
+88 : Color #0 (Video Stream: RGBA8 640x480@ 60Hz)
+89 : Color #0 (Video Stream: BGR8 640x480@ 60Hz)
+90 : Color #0 (Video Stream: YUYV 640x480@ 60Hz)
+91 : Color #0 (Video Stream: RGB8 640x480@ 30Hz)
+92 : Color #0 (Video Stream: Y16 640x480@ 30Hz)
+93 : Color #0 (Video Stream: BGRA8 640x480@ 30Hz)
+94 : Color #0 (Video Stream: RGBA8 640x480@ 30Hz)
+95 : Color #0 (Video Stream: BGR8 640x480@ 30Hz)
+96 : Color #0 (Video Stream: YUYV 640x480@ 30Hz)
+97 : Color #0 (Video Stream: RGB8 640x480@ 15Hz)
+98 : Color #0 (Video Stream: Y16 640x480@ 15Hz)
+99 : Color #0 (Video Stream: BGRA8 640x480@ 15Hz)
+100: Color #0 (Video Stream: RGBA8 640x480@ 15Hz)
+101: Color #0 (Video Stream: BGR8 640x480@ 15Hz)
+102: Color #0 (Video Stream: YUYV 640x480@ 15Hz)
+103: Color #0 (Video Stream: RGB8 640x480@ 6Hz)
+104: Color #0 (Video Stream: Y16 640x480@ 6Hz)
+105: Color #0 (Video Stream: BGRA8 640x480@ 6Hz)
+106: Color #0 (Video Stream: RGBA8 640x480@ 6Hz)
+107: Color #0 (Video Stream: BGR8 640x480@ 6Hz)
+108: Color #0 (Video Stream: YUYV 640x480@ 6Hz)
+109: Color #0 (Video Stream: RGB8 640x360@ 60Hz)
+110: Color #0 (Video Stream: Y16 640x360@ 60Hz)
+111: Color #0 (Video Stream: BGRA8 640x360@ 60Hz)
+112: Color #0 (Video Stream: RGBA8 640x360@ 60Hz)
+113: Color #0 (Video Stream: BGR8 640x360@ 60Hz)
+114: Color #0 (Video Stream: YUYV 640x360@ 60Hz)
+115: Color #0 (Video Stream: RGB8 640x360@ 30Hz)
+116: Color #0 (Video Stream: Y16 640x360@ 30Hz)
+117: Color #0 (Video Stream: BGRA8 640x360@ 30Hz)
+118: Color #0 (Video Stream: RGBA8 640x360@ 30Hz)
+119: Color #0 (Video Stream: BGR8 640x360@ 30Hz)
+120: Color #0 (Video Stream: YUYV 640x360@ 30Hz)
+121: Color #0 (Video Stream: RGB8 640x360@ 15Hz)
+122: Color #0 (Video Stream: Y16 640x360@ 15Hz)
+123: Color #0 (Video Stream: BGRA8 640x360@ 15Hz)
+124: Color #0 (Video Stream: RGBA8 640x360@ 15Hz)
+125: Color #0 (Video Stream: BGR8 640x360@ 15Hz)
+126: Color #0 (Video Stream: YUYV 640x360@ 15Hz)
+127: Color #0 (Video Stream: RGB8 640x360@ 6Hz)
+128: Color #0 (Video Stream: Y16 640x360@ 6Hz)
+129: Color #0 (Video Stream: BGRA8 640x360@ 6Hz)
+130: Color #0 (Video Stream: RGBA8 640x360@ 6Hz)
+131: Color #0 (Video Stream: BGR8 640x360@ 6Hz)
+132: Color #0 (Video Stream: YUYV 640x360@ 6Hz)
+133: Color #0 (Video Stream: RGB8 424x240@ 60Hz)
+134: Color #0 (Video Stream: Y16 424x240@ 60Hz)
+135: Color #0 (Video Stream: BGRA8 424x240@ 60Hz)
+136: Color #0 (Video Stream: RGBA8 424x240@ 60Hz)
+137: Color #0 (Video Stream: BGR8 424x240@ 60Hz)
+138: Color #0 (Video Stream: YUYV 424x240@ 60Hz)
+139: Color #0 (Video Stream: RGB8 424x240@ 30Hz)
+140: Color #0 (Video Stream: Y16 424x240@ 30Hz)
+141: Color #0 (Video Stream: BGRA8 424x240@ 30Hz)
+142: Color #0 (Video Stream: RGBA8 424x240@ 30Hz)
+143: Color #0 (Video Stream: BGR8 424x240@ 30Hz)
+144: Color #0 (Video Stream: YUYV 424x240@ 30Hz)
+145: Color #0 (Video Stream: RGB8 424x240@ 15Hz)
+146: Color #0 (Video Stream: Y16 424x240@ 15Hz)
+147: Color #0 (Video Stream: BGRA8 424x240@ 15Hz)
+148: Color #0 (Video Stream: RGBA8 424x240@ 15Hz)
+149: Color #0 (Video Stream: BGR8 424x240@ 15Hz)
+150: Color #0 (Video Stream: YUYV 424x240@ 15Hz)
+151: Color #0 (Video Stream: RGB8 424x240@ 6Hz)
+152: Color #0 (Video Stream: Y16 424x240@ 6Hz)
+153: Color #0 (Video Stream: BGRA8 424x240@ 6Hz)
+154: Color #0 (Video Stream: RGBA8 424x240@ 6Hz)
+155: Color #0 (Video Stream: BGR8 424x240@ 6Hz)
+156: Color #0 (Video Stream: YUYV 424x240@ 6Hz)
+157: Color #0 (Video Stream: RGB8 320x240@ 60Hz)
+158: Color #0 (Video Stream: Y16 320x240@ 60Hz)
+159: Color #0 (Video Stream: BGRA8 320x240@ 60Hz)
+160: Color #0 (Video Stream: RGBA8 320x240@ 60Hz)
+161: Color #0 (Video Stream: BGR8 320x240@ 60Hz)
+162: Color #0 (Video Stream: YUYV 320x240@ 60Hz)
+163: Color #0 (Video Stream: RGB8 320x240@ 30Hz)
+164: Color #0 (Video Stream: Y16 320x240@ 30Hz)
+165: Color #0 (Video Stream: BGRA8 320x240@ 30Hz)
+166: Color #0 (Video Stream: RGBA8 320x240@ 30Hz)
+167: Color #0 (Video Stream: BGR8 320x240@ 30Hz)
+168: Color #0 (Video Stream: YUYV 320x240@ 30Hz)
+169: Color #0 (Video Stream: RGB8 320x240@ 6Hz)
+170: Color #0 (Video Stream: Y16 320x240@ 6Hz)
+171: Color #0 (Video Stream: BGRA8 320x240@ 6Hz)
+172: Color #0 (Video Stream: RGBA8 320x240@ 6Hz)
+173: Color #0 (Video Stream: BGR8 320x240@ 6Hz)
+174: Color #0 (Video Stream: YUYV 320x240@ 6Hz)
+175: Color #0 (Video Stream: RGB8 320x180@ 60Hz)
+176: Color #0 (Video Stream: Y16 320x180@ 60Hz)
+177: Color #0 (Video Stream: BGRA8 320x180@ 60Hz)
+178: Color #0 (Video Stream: RGBA8 320x180@ 60Hz)
+179: Color #0 (Video Stream: BGR8 320x180@ 60Hz)
+180: Color #0 (Video Stream: YUYV 320x180@ 60Hz)
+181: Color #0 (Video Stream: RGB8 320x180@ 30Hz)
+182: Color #0 (Video Stream: Y16 320x180@ 30Hz)
+183: Color #0 (Video Stream: BGRA8 320x180@ 30Hz)
+184: Color #0 (Video Stream: RGBA8 320x180@ 30Hz)
+185: Color #0 (Video Stream: BGR8 320x180@ 30Hz)
+186: Color #0 (Video Stream: YUYV 320x180@ 30Hz)
+187: Color #0 (Video Stream: RGB8 320x180@ 6Hz)
+188: Color #0 (Video Stream: Y16 320x180@ 6Hz)
+189: Color #0 (Video Stream: BGRA8 320x180@ 6Hz)
+190: Color #0 (Video Stream: RGBA8 320x180@ 6Hz)
+191: Color #0 (Video Stream: BGR8 320x180@ 6Hz)
+192: Color #0 (Video Stream: YUYV 320x180@ 6Hz)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+thermalview@THERMAL-VIEW:~$ gst-device-monitor-1.0 Video/Source
+Probing devices...
+
+
+Device found:
+
+	name  : GuideCamera
+	class : Video/Source
+	caps  : video/x-raw, format=(string)YUY2, width=(int)1280, height=(int)1025, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)1280, height=(int)1024, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)640, height=(int)1025, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)640, height=(int)1024, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)800, height=(int)600, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)720, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)640, height=(int)513, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)640, height=(int)512, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 50/1, 25/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)384, height=(int)577, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)384, height=(int)576, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)577, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)576, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)481, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)400, height=(int)300, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)384, height=(int)289, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)384, height=(int)288, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)289, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)288, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 50/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)256, height=(int)385, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)256, height=(int)384, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)241, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)360, height=(int)240, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)320, height=(int)240, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)256, height=(int)193, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)256, height=(int)192, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 100/1, 60/1 };
+	properties:
+		udev-probed = true
+		device.bus_path = pci-0000:00:14.0-usb-0:1.1:1.0
+		sysfs.path = /sys/devices/pci0000:00/0000:00:14.0/usb2/2-1/2-1.1/2-1.1:1.0/video4linux/video0
+		device.bus = usb
+		device.subsystem = video4linux
+		device.vendor.id = 04b4
+		device.vendor.name = Cypress
+		device.product.id = f9f9
+		device.product.name = GuideCamera
+		device.serial = Cypress_GuideCamera
+		device.capabilities = :capture:
+		device.api = v4l2
+		device.path = /dev/video0
+		v4l2.device.driver = uvcvideo
+		v4l2.device.card = GuideCamera
+		v4l2.device.bus_info = usb-0000:00:14.0-1.1
+		v4l2.device.version = 328769 (0x00050441)
+		v4l2.device.capabilities = 2225078273 (0x84a00001)
+		v4l2.device.device_caps = 69206017 (0x04200001)
+	gst-launch-1.0 v4l2src ! ...
+
+
+Device found:
+
+	name  : Intel(R) RealSense(TM) Depth Ca
+	class : Video/Source
+	caps  : video/x-raw, format=(string)UYVY, width=(int)1280, height=(int)720, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)UYVY, width=(int)848, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)UYVY, width=(int)640, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)UYVY, width=(int)640, height=(int)360, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)UYVY, width=(int)480, height=(int)270, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)UYVY, width=(int)424, height=(int)240, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)UYVY, width=(int)848, height=(int)100, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction)100/1;
+	        video/x-raw, format=(string)UYVY, width=(int)256, height=(int)144, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction)90/1;
+	        video/x-raw, format=(string)GRAY8, width=(int)1280, height=(int)720, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)848, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)640, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)640, height=(int)360, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)480, height=(int)270, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)424, height=(int)240, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)848, height=(int)100, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction)100/1;
+	        video/x-raw, format=(string)GRAY8, width=(int)256, height=(int)144, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction)90/1;
+	        video/x-raw, format=(string)GRAY8, width=(int)1280, height=(int)720, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)848, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)640, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)640, height=(int)360, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)480, height=(int)270, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)424, height=(int)240, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 90/1, 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)GRAY8, width=(int)848, height=(int)100, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction)100/1;
+	        video/x-raw, format=(string)GRAY8, width=(int)256, height=(int)144, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction)90/1;
+	properties:
+		udev-probed = true
+		device.bus_path = pci-0000:00:14.0-usb-0:3:1.0
+		sysfs.path = /sys/devices/pci0000:00/0000:00:14.0/usb2/2-3/2-3:1.0/video4linux/video4
+		device.bus = usb
+		device.subsystem = video4linux
+		device.vendor.id = 8086
+		device.vendor.name = "Intel\\x28R\\x29\\x20RealSense\\x28TM\\x29\\x20Depth\\x20Camera\\x20415\\x20"
+		device.product.id = 0ad3
+		device.product.name = "Intel\(R\)\ RealSense\(TM\)\ Depth\ Ca"
+		device.serial = Intel_R__RealSense_TM__Depth_Camera_415_Intel_R__RealSense_TM__Depth_Camera_415_002323021425
+		device.capabilities = :capture:
+		device.api = v4l2
+		device.path = /dev/video4
+		v4l2.device.driver = uvcvideo
+		v4l2.device.card = "Intel\(R\)\ RealSense\(TM\)\ Depth\ Ca"
+		v4l2.device.bus_info = usb-0000:00:14.0-3
+		v4l2.device.version = 328769 (0x00050441)
+		v4l2.device.capabilities = 2225078273 (0x84a00001)
+		v4l2.device.device_caps = 69206017 (0x04200001)
+	gst-launch-1.0 v4l2src device=/dev/video4 ! ...
+
+
+Device found:
+
+	name  : Intel(R) RealSense(TM) Depth Ca
+	class : Video/Source
+	caps  : video/x-raw, format=(string)YUY2, width=(int)1920, height=(int)1080, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)1280, height=(int)720, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)960, height=(int)540, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)848, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)640, height=(int)480, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)640, height=(int)360, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)424, height=(int)240, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 60/1, 30/1, 15/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)320, height=(int)240, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 60/1, 30/1, 6/1 };
+	        video/x-raw, format=(string)YUY2, width=(int)320, height=(int)180, pixel-aspect-ratio=(fraction)1/1, framerate=(fraction){ 60/1, 30/1, 6/1 };
+	properties:
+		udev-probed = true
+		device.bus_path = pci-0000:00:14.0-usb-0:3:1.3
+		sysfs.path = /sys/devices/pci0000:00/0000:00:14.0/usb2/2-3/2-3:1.3/video4linux/video6
+		device.bus = usb
+		device.subsystem = video4linux
+		device.vendor.id = 8086
+		device.vendor.name = "Intel\\x28R\\x29\\x20RealSense\\x28TM\\x29\\x20Depth\\x20Camera\\x20415\\x20"
+		device.product.id = 0ad3
+		device.product.name = "Intel\(R\)\ RealSense\(TM\)\ Depth\ Ca"
+		device.serial = Intel_R__RealSense_TM__Depth_Camera_415_Intel_R__RealSense_TM__Depth_Camera_415_002323021425
+		device.capabilities = :capture:
+		device.api = v4l2
+		device.path = /dev/video6
+		v4l2.device.driver = uvcvideo
+		v4l2.device.card = "Intel\(R\)\ RealSense\(TM\)\ Depth\ Ca"
+		v4l2.device.bus_info = usb-0000:00:14.0-3
+		v4l2.device.version = 328769 (0x00050441)
+		v4l2.device.capabilities = 2225078273 (0x84a00001)
+		v4l2.device.device_caps = 69206017 (0x04200001)
+	gst-launch-1.0 v4l2src device=/dev/video6 ! ...
